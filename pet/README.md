@@ -26,4 +26,15 @@
 - создание view которые потом можно будет использовать для закгрузки в PowerBI;
 - создание дашборда в PowerBI.
 
+**Ссылки на тетради**
 
+- [создание БД](https://github.com/qwestsi81/Tenderplan/blob/main/pet/create_DB.ipynb);
+- [справочник субъектов РФ](https://github.com/qwestsi81/Tenderplan/blob/main/pet/dict_region.ipynb);
+- [справочник меток закупок](https://github.com/qwestsi81/Tenderplan/blob/main/pet/dict_marks.ipynb);
+- [справочник сотрудников компании](https://github.com/qwestsi81/Tenderplan/blob/main/pet/dict_users.ipynb);
+- [справочник статусов закупок](https://github.com/qwestsi81/Tenderplan/blob/main/pet/dict_status.ipynb);
+- [справочник типов закупки](https://github.com/qwestsi81/Tenderplan/blob/main/pet/dict_placingway.ipynb);
+- [список тендеров для создания тб фактов и справочника тендеров](https://github.com/qwestsi81/Tenderplan/blob/main/pet/lst_%D1%82enders.ipynb);
+- [таблицы фактов и справочник тендера](https://github.com/qwestsi81/Tenderplan/blob/main/pet/df_tenders.ipynb);
+- [наполнение БД](https://github.com/qwestsi81/Tenderplan/blob/main/pet/alter_incert_DB.ipynb);
+- [выполнение программы](https://github.com/qwestsi81/Tenderplan/blob/main/pet/%D0%9E%D1%82%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D1%81%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D0%B2.ipynb).
