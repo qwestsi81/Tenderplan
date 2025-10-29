@@ -41,4 +41,4 @@
 
 **Ссылки на прочие файлы**
 
--[схема БД](https://github.com/qwestsi81/Tenderplan/blob/main/pet/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0%20%D0%91%D0%94.png).
+- [схема БД](https://github.com/qwestsi81/Tenderplan/blob/main/pet/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0%20%D0%91%D0%94.png).
